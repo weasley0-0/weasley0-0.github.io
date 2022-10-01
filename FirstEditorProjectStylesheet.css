@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    font-size: 64px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("HeaderImage.jpeg");
+}
+
+article h3 {
+    font-size: 24px;
+    color: white;
+}
+
+#Brushes {
+    background-color: mediumspringgreen;
+}
+
+#Frames {
+    background-color: lightcoral;
+}
+
+#Paint {
+    background-color: skyblue;
+}
+
+.priceterms, p {
+    display: inline-block;
+}
+
+.priceterms {
+    font-weight: bold;
+    color: blue;
+}
+
+figure {
+    margin-left: 0px;
+}
